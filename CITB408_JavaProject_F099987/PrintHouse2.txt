@@ -1,0 +1,15 @@
+Company name: Print
+[Edition{name='Izd1', paper=Size=A5, Type=NORMAL, NumberOfPages=20, Copies=3}
+, Edition{name='Izd2', paper=Size=A2, Type=GLOSSY, NumberOfPages=20, Copies=2}
+, Edition{name='Izd3', paper=Size=A3, Type=NEWSPAPER, NumberOfPages=15, Copies=3}
+, Edition{name='Izd4', paper=Size=A5, Type=NORMAL, NumberOfPages=25, Copies=5}
+]
+Company Income: 3015.0
+Expenses for salary: 3150.0
+Expenses for paper: 3015.020
+Total Expenses: 6165.020
+
+List of workers:
+ [Employee{name='Ivan', BaseSalary=1650.0, Position=MANAGER}
+, Employee{name='Dragan', BaseSalary=1500, Position=MACHINEOPERATOR}
+]
